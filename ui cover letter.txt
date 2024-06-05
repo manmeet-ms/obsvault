@@ -1,0 +1,26 @@
+
+
+# Summary:
+- Designed a Payment app UI and personal bio-link page concept [http://msbio.vercel.app/].
+- Built a personal portfolio website from scratch, demonstrating both front-end development and design capabilities.
+- Completed several client projects including building WordPress websites (portfolio at [bento.me/manmeets]) and designing channel banners.
+- Showcased problem-solving and teamwork skills as a front-end developer and UI designer in hackathons.
+- Designed and coded a single-page website for an electronics club.
+
+
+# Details:
+- Front-End Development & Design:
+Personal Portfolio Website: Designed and developed my responsive portfolio website from scratch, with HTML, CSS, and JavaScript (available at [https://manmeets.me]). This project showcased my skills in responsive UI design, and basic front-end development.
+
+
+Client Projects: Contributed to the development and design of several websites using WordPress for various clients. Demonstrated proficiency in customizing themes, plugins, and building custom functionalities to meet diverse client needs and industry standards.
+
+
+- Design & User Experience:
+Successfully created logos, Discord channel headers, and other graphics for clients, ensuring brand consistency and user engagement.
+
+
+Hackathon Experience: Participated in two prestigious hackathons (HackCBS6.0 and HackJNU3.0) as a front-end developer and UI/UX designer. Reached the finals in both events, highlighting my problem-solving skills, ability to work effectively in a team, and adapt to challenges and adverse conditions under pressure.
+
+# Objective:
+I possess a strong passion in implementing user-centric approach in all design and development endeavors. This focus ensures users can easily interact with and navigate websites and applications. I am excited by the opportunity to contribute my design and development skills to your team. I am confident that my technical abilities, design expertise, and strong work ethic will make me a valuable asset
