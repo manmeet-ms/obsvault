@@ -10,9 +10,11 @@ MAterial ocean
 
 # Worst
  Bolt 
- Brutalism 
+ Brutalism ![[]]
  Nebula 
- Cyber\ Glow/
-
+ MATERIAL YOU
+ HEBORIC
+ Cyber\ Glow
+ENCORE
 Pine\ Forest\ Berry
-Ono\ Sendai/
+Ono Sendai
