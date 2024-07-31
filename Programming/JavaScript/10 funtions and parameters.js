@@ -28,3 +28,18 @@ account.name = 'Bradley'
 // console.log(account);
 
 account.welcomeMessageArrow()
+
+
+const products = [
+    { id: 1, name: 'Laptop', price: 800 },
+    { id: 2, name: 'Smartphone', price: 500 },
+    { id: 3, name: 'Headphones', price: 100 },
+  ];
+  
+  products.forEach((product, index, array) => {
+    // Apply a 10% discount to each product
+    const discountedPrice = product.price * 0.9;
+  
+    // Log the details of the discounted product
+    console.log(`Product #${index + 1}: ${product.name}, Original Price: $${product.price}, Discounted Price: $${discountedPrice}`);
+  });

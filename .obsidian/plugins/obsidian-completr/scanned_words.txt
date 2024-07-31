@@ -784,6 +784,7 @@ Component
 Contains
 Concat
 Combines
+Constants
 the
 to
 threshold
@@ -1615,6 +1616,14 @@ toys
 trinkets
 tips
 troubleshoot
+taking
+transformation
+transforming
+toExponential
+toFixed
+toPrecision
+truncating
+toLocaleString
 display
 divider
 different
@@ -2458,6 +2467,11 @@ debug
 descriptive
 declarations
 defaults
+determined
+decimals
+digits
+destructuring
+discountedPrice
 Board
 Bisht
 Bejoy
@@ -3943,6 +3957,7 @@ ageInput
 accessibility
 accessible
 actual
+accumulating
 print
 porch
 pin
@@ -4787,6 +4802,10 @@ pushing
 practices
 predict
 portion
+powerful
+primarily
+populated
+paramters
 Hello
 HS
 Hz
@@ -7002,6 +7021,8 @@ offering
 outpu
 omitted
 otherItems
+overuse
+organized
 it
 intensity
 in
@@ -7935,6 +7956,10 @@ innovation
 illustrating
 invoked
 initialization
+iterating
+integer
+infinity
+integers
 Scroll
 Speed
 SSD
@@ -8783,6 +8808,8 @@ Summary
 Slice
 Splice
 Separator
+Scoping
+Stands
 from
 for
 flash
@@ -9509,6 +9536,10 @@ funtions
 frameworks
 fundamental
 functionality
+formatting
+floating
+finite
+facilitating
 left
 light
 led
@@ -10262,6 +10293,7 @@ lucky
 legal
 labels
 loops
+largest
 right
 rate
 red
@@ -11128,6 +11160,8 @@ returning
 removing
 replacing
 recursively
+reducer
+readable
 control
 change
 controller
@@ -12082,6 +12116,9 @@ completes
 calls
 contents
 concatenated
+confined
+callback
+calculation
 stepper
 simulate
 such
@@ -13148,6 +13185,13 @@ structures
 stack
 selected
 sub
+straightforward
+selecting
+subset
+summing
+showing
+scientific
+smallest
 motor
 ms
 maximum
@@ -14031,6 +14075,8 @@ maintains
 manages
 maintainable
 modifies
+maps
+mathematical
 Use
 Up
 Ujjal
@@ -15431,6 +15477,8 @@ Lexical
 LiveScript
 Launched
 LIFO
+Loops
+Library
 estimate
 extensions
 expandable
@@ -16283,6 +16331,9 @@ encounters
 executes
 explain
 entries
+everywhere
+extremely
+exponential
 value
 voltage
 vercel
@@ -18593,6 +18644,8 @@ Revenue
 Ryan
 Reuse
 Reference
+Represents
+Represent
 To
 TGP
 Title
@@ -20773,6 +20826,7 @@ Organize
 Origin
 Out
 Order
+Original
 Arduino
 Any
 ADC
@@ -21488,6 +21542,7 @@ AngularJS
 Aid
 Arrow
 Allocates
+Actually
 Estimate
 Extras
 Email
@@ -22344,6 +22399,8 @@ Eich
 Evolution
 Expansion
 End
+Essentially
+Examples
 when
 which
 windows
@@ -23069,6 +23126,8 @@ wait
 writtn
 wapis
 won
+ways
+whole
 Delay
 DC
 Display
@@ -23799,6 +23858,7 @@ Definition
 During
 Determines
 Depth
+Demonstrating
 Implement
 IDEs
 IPS
@@ -25285,6 +25345,7 @@ Passing
 Problems
 Push
 Pop
+Parse
 VS
 Vice
 Vineet
@@ -29781,6 +29842,7 @@ GvW
 Grand
 Games
 Grade
+Giving
 Max
 Minimum
 MB
@@ -30709,6 +30771,7 @@ Make
 Mocha
 Modular
 Maintainability
+Mathematical
 NVMe
 Nitro
 Name
@@ -32144,6 +32207,7 @@ nJa
 nWw
 named
 next
+nearest
 FINAL
 Founder
 Francis
@@ -34501,6 +34565,7 @@ kit
 kept
 keval
 keeps
+keeping
 Jagadeesh
 Jena
 Joseph

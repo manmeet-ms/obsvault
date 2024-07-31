@@ -19,6 +19,11 @@ Functions in JavaScript are fundamental building blocks for creating modular, re
 - **Call by Reference**: Objects and arrays are passed by reference. Changes made inside functions affect the original object/array.
 - **Call by Value**: Primitive types (numbers, strings, booleans) are passed by value. Changes inside functions don't affect the original value.
 
+
+> [!NOTE] Giving reference vs actually executing it, is different
+> Giving reference: `funcName`
+> Actually calling and executing it: `funcName()`
+
 #### Parameters and Arguments
 
 - **Parameters** are placeholders listed in the function definition.

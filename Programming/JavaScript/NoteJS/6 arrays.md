@@ -152,14 +152,60 @@ console.log(arr); // Output: ["h", "e", "l", "l", "o"]
 #### Of
 Creates a new array instance with a variable number of arguments, regardless of number or type of the arguments.
 
-```javascript
+```js
 let arr = Array.of(1, 2, 3);
 console.log(arr); // Output: [1, 2, 3]
 ```
 
 ---
-
 #### High Order Array loops
-`for each` overview
-- `for of`
-- `map`
+
+### High Order Array Loops Overview
+
+High order functions in JavaScript are functions that operate on other functions, either by taking them as arguments or returning them. When applied to arrays, high order functions provide powerful tools for iteration, transformation, and reduction of data. Here's an overview of some commonly used high order array methods:
+
+#### `forEach`
+
+The `forEach` method executes a provided callback function once for each array element. It's primarily used for side effects like logging to the console or modifying an external variable.
+- its also has `item`, `itsIndex`, `fullArrayList` as paramters.
+```javascript
+const numbers = [1, 2, 3, 4];
+numbers.forEach(number => console.log(number * 2));
+// Output: 2, 4, 6, 8
+```
+examples: 
+- important examples of objects in an array
+```js
+const products = [
+  { id: 1, name: 'Laptop', price: 800 },
+  { id: 2, name: 'Smartphone', price: 500 },
+  { id: 3, name: 'Headphones', price: 100 },
+];
+
+products.forEach((product, index, array) => {
+  // Apply a 10% discount to each product
+  const discountedPrice = product.price * 0.9;
+
+  // Log the details of the discounted product
+  console.log(`Product #${index + 1}: ${product.name}, Original Price: $${product.price}, Discounted Price: $${discountedPrice}`);
+});
+
+```
+#### `for...of`
+
+The `for...of` statement creates a loop iterating over iterable objects, including arrays, strings, maps, etc. It provides a more straightforward way to iterate over arrays compared to traditional `for` loops.
+
+```javascript
+const numbers = [1, 2, 3, 4];
+for (let number of numbers) {
+  console.log(number * 2);
+}
+// Output: 2, 4, 6, 8
+```
+
+#### `for...in`
+for iterating objects 
+[key, value] for array destructuring
+### Conclusion
+
+High order array methods like `forEach`, `map`, `filter`, and `reduce` offer powerful ways to work with arrays in JavaScript. They promote functional programming patterns, allowing for more readable and maintainable code. Understanding these methods is essential for modern JavaScript development, enabling efficient data manipulation and transformation.
